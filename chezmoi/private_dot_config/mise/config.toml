@@ -1,0 +1,15 @@
+[settings]
+idiomatic_version_file_enable_tools = []
+
+[tools]
+"aqua:gokcehan/lf" = "r38"
+chezmoi = "2.67.0"
+delta = "0.18.2"
+direnv = "2.37.1"
+eza = "0.23.4"
+fd = "10.3.0"
+fzf = "0.67.0"
+neovim = "0.11.5"
+rg = "15.1.0"
+starship = "1.24.1"
+tlrc = "1.12.0"
