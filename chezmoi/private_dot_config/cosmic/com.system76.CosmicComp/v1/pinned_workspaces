@@ -1,0 +1,77 @@
+[
+    (
+        output: (
+            name: "DVI-D-1",
+            edid: Some((
+                manufacturer: ('B', 'N', 'Q'),
+                product: 32561,
+                serial: Some(21573),
+                manufacture_week: 42,
+                manufacture_year: 2015,
+                model_year: None,
+            )),
+        ),
+        tiling_enabled: true,
+        id: Some("5c9e06"),
+    ),
+    (
+        output: (
+            name: "DVI-D-1",
+            edid: Some((
+                manufacturer: ('B', 'N', 'Q'),
+                product: 32561,
+                serial: Some(21573),
+                manufacture_week: 42,
+                manufacture_year: 2015,
+                model_year: None,
+            )),
+        ),
+        tiling_enabled: true,
+        id: Some("994ba0"),
+    ),
+    (
+        output: (
+            name: "DVI-D-1",
+            edid: Some((
+                manufacturer: ('B', 'N', 'Q'),
+                product: 32561,
+                serial: Some(21573),
+                manufacture_week: 42,
+                manufacture_year: 2015,
+                model_year: None,
+            )),
+        ),
+        tiling_enabled: true,
+        id: Some("1945713"),
+    ),
+    (
+        output: (
+            name: "DVI-D-1",
+            edid: Some((
+                manufacturer: ('B', 'N', 'Q'),
+                product: 32561,
+                serial: Some(21573),
+                manufacture_week: 42,
+                manufacture_year: 2015,
+                model_year: None,
+            )),
+        ),
+        tiling_enabled: true,
+        id: Some("f9ac17"),
+    ),
+    (
+        output: (
+            name: "DVI-D-1",
+            edid: Some((
+                manufacturer: ('B', 'N', 'Q'),
+                product: 32561,
+                serial: Some(21573),
+                manufacture_week: 42,
+                manufacture_year: 2015,
+                model_year: None,
+            )),
+        ),
+        tiling_enabled: true,
+        id: Some("fb4b08"),
+    ),
+]
